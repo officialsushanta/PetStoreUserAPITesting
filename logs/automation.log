@@ -1,0 +1,40 @@
+17:12:48.112 [main] INFO  api.tests.UserTests - *********************** Creating User ***********************
+17:12:52.823 [main] INFO  api.tests.UserTests - *********************** User is Created ***********************
+17:12:52.833 [main] INFO  api.tests.UserTests - *********************** Getting User Informations ***********************
+17:12:54.131 [main] INFO  api.tests.UserTests - *********************** User Informations is Retreived ***********************
+17:12:54.137 [main] INFO  api.tests.UserTests - *********************** Updating User ***********************
+17:12:56.665 [main] INFO  api.tests.UserTests - *********************** User is Updated ***********************
+17:12:56.673 [main] INFO  api.tests.UserTests - *********************** Deleting User ***********************
+17:12:57.889 [main] INFO  api.tests.UserTests - *********************** User is Deleted ***********************
+17:13:18.403 [main] INFO  api.tests.UserTests - *********************** Creating User ***********************
+17:13:22.227 [main] INFO  api.tests.UserTests - *********************** User is Created ***********************
+17:13:22.236 [main] INFO  api.tests.UserTests - *********************** Getting User Informations ***********************
+17:13:23.541 [main] INFO  api.tests.UserTests - *********************** User Informations is Retreived ***********************
+17:13:23.550 [main] INFO  api.tests.UserTests - *********************** Updating User ***********************
+17:13:26.073 [main] INFO  api.tests.UserTests - *********************** User is Updated ***********************
+17:13:26.078 [main] INFO  api.tests.UserTests - *********************** Deleting User ***********************
+17:13:27.297 [main] INFO  api.tests.UserTests - *********************** User is Deleted ***********************
+17:31:19.481 [main] INFO  api.tests.UserTests - *********************** Creating User ***********************
+17:31:23.553 [main] INFO  api.tests.UserTests - *********************** User is Created ***********************
+17:31:23.595 [main] INFO  api.tests.UserTests - *********************** Getting User Informations ***********************
+17:31:24.860 [main] INFO  api.tests.UserTests - *********************** User Informations is Retreived ***********************
+17:31:24.868 [main] INFO  api.tests.UserTests - *********************** Updating User ***********************
+17:31:27.291 [main] INFO  api.tests.UserTests - *********************** User is Updated ***********************
+17:31:27.299 [main] INFO  api.tests.UserTests - *********************** Deleting User ***********************
+17:31:28.495 [main] INFO  api.tests.UserTests - *********************** User is Deleted ***********************
+20:24:22.087 [main] INFO  api.tests.UserTests - *********************** Creating User ***********************
+20:24:26.458 [main] INFO  api.tests.UserTests - *********************** User is Created ***********************
+20:24:26.467 [main] INFO  api.tests.UserTests - *********************** Getting User Informations ***********************
+20:24:28.186 [main] INFO  api.tests.UserTests - *********************** User Informations is Retreived ***********************
+20:24:28.191 [main] INFO  api.tests.UserTests - *********************** Updating User ***********************
+20:24:31.458 [main] INFO  api.tests.UserTests - *********************** User is Updated ***********************
+20:24:31.460 [main] INFO  api.tests.UserTests - *********************** Deleting User ***********************
+20:24:33.097 [main] INFO  api.tests.UserTests - *********************** User is Deleted ***********************
+20:26:49.645 [main] INFO  api.tests.UserTests - *********************** Creating User ***********************
+20:26:54.008 [main] INFO  api.tests.UserTests - *********************** User is Created ***********************
+20:26:54.015 [main] INFO  api.tests.UserTests - *********************** Getting User Informations ***********************
+20:26:55.639 [main] INFO  api.tests.UserTests - *********************** User Informations is Retreived ***********************
+20:26:55.645 [main] INFO  api.tests.UserTests - *********************** Updating User ***********************
+20:26:59.015 [main] INFO  api.tests.UserTests - *********************** User is Updated ***********************
+20:26:59.021 [main] INFO  api.tests.UserTests - *********************** Deleting User ***********************
+20:27:00.658 [main] INFO  api.tests.UserTests - *********************** User is Deleted ***********************
